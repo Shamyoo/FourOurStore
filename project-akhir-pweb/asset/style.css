@@ -14,11 +14,11 @@
   .button1 {
     background-color: white; 
     color: black; 
-    border: 2px solid #e403ce;
+    border: 2px solid #FFCFEF;
   }
   
   .button1:hover {
-    background-color: #e403ce;
+    background-color: #FFCFEF;
     color: white;
   }
 
@@ -27,7 +27,6 @@
     justify-content:center ;
     align-items: center;
     margin-top: 50px;
-    margin-top: 30px;
 
     flex-direction: column;
 }
